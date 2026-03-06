@@ -373,9 +373,9 @@ ul.sns-list li a.note:hover {
   color: #ffffff;
 }
 
-ul.sns-list li a.amazon:hover {
-  background: #FF9900;
-  border: 2px solid #FF9900;
+ul.sns-list li a.vatter:hover {
+  background: #e2e2e2;
+  border: 2px solid #e2e2e2;
   color: #ffffff;
 }
 
